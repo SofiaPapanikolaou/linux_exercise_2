@@ -1,7 +1,0 @@
-git clone https://github.com/SofiaPapanikolaou/linux_exercise_2.git
-cd linux_exercise_2
-cp ~/pattern.sh ./
-git add pattern.sh
-git commit -m "add pattern.sh"
-git push
-git status
