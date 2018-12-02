@@ -1,0 +1,8 @@
+#all commands needed to add the option "export only the sequence names and find out how many sequences are from human (hg19)" to the script "pattern.sh" and to synchronize it to the remote github repository:
+
+git pull
+emacs -nw pattern.sh
+#add the commands
+git commit -a -m "pattern.sh"
+git push
+
